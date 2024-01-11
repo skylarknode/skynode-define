@@ -1,0 +1,25 @@
+{
+  "name" : "skynode-define",
+  "version": "0.9.0",
+  "description": "A sync loader for  skylarkjs module on nodejs",
+  "author": [
+    {
+      "name": "lwf",
+      "email": "lwf@tech.hudaokeji.com",
+      "web": "http://www.hudaokeji.com"
+    }
+  ],
+  "main": "./define",
+  "preferGlobal": "true",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/skylarknode/skynode-define.git"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  },
+
+  "license": "MIT"
+}
